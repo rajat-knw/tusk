@@ -4,6 +4,8 @@ java code
 angular code
 react code
 
+Beans
+vue js
 
 thank you
 
